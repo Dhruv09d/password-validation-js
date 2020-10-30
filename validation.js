@@ -22,7 +22,7 @@
             alert("Please enter a valid Email ID!");
 
         // password validation
-        if(Password.length < 7 || Password.length > 15)
+        if(Password.length < 8 || Password.length > 16)
             alert("Password length should be 8-16 character");
         else 
         {
