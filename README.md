@@ -12,4 +12,4 @@
    
    1 special character and
    
-   length must be 8-16 characters.  
+   Password length must be 8-16 characters.  
